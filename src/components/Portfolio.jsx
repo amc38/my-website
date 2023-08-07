@@ -7,8 +7,7 @@ import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
 import Stopwords from "../assets/portfolio/Stopwords.png";
 import {Link} from 'react-scroll';
-import ReactDOM from "react-dom";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+
 import Subreddit from "../components/Subreddit.jsx"
 
 
