@@ -1,6 +1,5 @@
 import React from "react";
 import reddit from "../assets/portfolio/redditlogo.png";
-import craigslist from "../assets/portfolio/craigslistlogo.png";
 import movieRevenue from "../assets/portfolio/movieRevenue.jpeg";
 import Stopwords from "../assets/portfolio/Stopwords.png";
 import {Link} from 'react-scroll';
